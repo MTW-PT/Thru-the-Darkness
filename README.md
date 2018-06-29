@@ -1,2 +1,2 @@
 # Thru-the-Darkness
-learning git
+mastering git
